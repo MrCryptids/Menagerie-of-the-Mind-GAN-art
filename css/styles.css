@@ -1,0 +1,44 @@
+/*********************TAG SELECTORS*********************/
+/**********selector {property: vaule;}*****************/
+
+body{
+background-color: #EAD3CB;
+}
+p{
+  color: #2C061F;
+}
+  h1 {
+    color: #2C061F;
+    text-align: center;
+    font-family: "Papyrus";
+
+  }
+  h3 {
+    text-align: center;
+    color: #2C061F;
+  }
+  h4 {
+    color: #2C061F;
+    text-align: left;
+    margin-left: 60px
+  }
+hr {
+ border: 2px outset #845460;
+}
+img{
+ border: 4px outset #845460;
+}
+
+/*********************CLASS SELECTORS{used for groups}*********************/
+.GANart:hover { color: black}
+.GANart:hover { text-shadow: 2px 2px #ff0000;}
+
+.ganimg:hover {
+    border: 8px outset purple;
+}
+
+.hype:hover {color: black
+}
+.hype:hover { text-shadow: 2px 2px #ff0000;}
+
+/*********************ID SELECTORS{1 per page 1/1}*********************/
